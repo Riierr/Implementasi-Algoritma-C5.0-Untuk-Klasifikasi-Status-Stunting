@@ -1,0 +1,33 @@
+[08-Jan-2026 16:30:37 UTC] === DEBUG POST DATA ===
+[08-Jan-2026 16:30:37 UTC] Array
+(
+    [nama_balita] => 99
+    [usia] => 24
+    [jk] => L
+    [berat] => 12.5
+    [tinggi] => 85
+)
+
+[08-Jan-2026 16:30:37 UTC] SESSION ID: p87j9g0hgf2mehts0ifgf3mlue
+[08-Jan-2026 16:30:50 UTC] === DEBUG POST DATA ===
+[08-Jan-2026 16:30:50 UTC] Array
+(
+    [nama_balita] => 44
+    [usia] => 24
+    [jk] => L
+    [berat] => 12.5
+    [tinggi] => 85
+)
+
+[08-Jan-2026 16:30:50 UTC] SESSION ID: p87j9g0hgf2mehts0ifgf3mlue
+[08-Jan-2026 16:31:04 UTC] === DEBUG POST DATA ===
+[08-Jan-2026 16:31:04 UTC] Array
+(
+    [nama_balita] => 119
+    [usia] => 24
+    [jk] => L
+    [berat] => 12.5
+    [tinggi] => 85
+)
+
+[08-Jan-2026 16:31:04 UTC] SESSION ID: p87j9g0hgf2mehts0ifgf3mlue
