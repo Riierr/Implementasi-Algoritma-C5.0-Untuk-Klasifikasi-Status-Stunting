@@ -65,5 +65,4 @@ khususnya algoritma C5.0, pada bidang kesehatan masyarakat.
 Nama    : MUHARRIR RAJUDDIN
 E-Mail  : muharrir011@gmail.com
 IG      : muharrir_rajuddin
-Tahun: 2026
 
